@@ -1,0 +1,19 @@
+[
+  {
+    "namespace": "gestures",
+    "events": [
+      {
+        "name": "onGesturePerformed",
+        "type": "function",
+        "description": "Fired when an uninterruptible reflow occurs in the browser chrome of a window.",
+        "parameters": [
+          {
+            "type": "string",
+            "name": "strokes",
+            "description": "ID of the window that experienced the uninterruptible reflow."
+          }
+        ]
+      }
+    ]
+  }
+]
