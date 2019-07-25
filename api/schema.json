@@ -5,12 +5,12 @@
       {
         "name": "onGesturePerformed",
         "type": "function",
-        "description": "Fired when an uninterruptible reflow occurs in the browser chrome of a window.",
+        "description": "",
         "parameters": [
           {
             "type": "string",
             "name": "strokes",
-            "description": "ID of the window that experienced the uninterruptible reflow."
+            "description": ""
           }
         ]
       }
